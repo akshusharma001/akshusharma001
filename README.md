@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m a Front End Developer and currently learning Backend 
 - 📫 How to reach me - akshusharmagi@gmail.com
 - 😄 Pronouns: he/him
 
