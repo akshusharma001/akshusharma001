@@ -1,11 +1,37 @@
-- 👋 Hi, I’m Akshay
-- 👀 I’m interested in Web Development
-- 🌱 I’m a Front End Developer with all the knowledge of backend also
-- 📫 How to reach me - akshusharmagi@gmail.com
-- 😄 Pronouns: he/him
+# 👋 Hi, I'm Akshay Sharma
 
+## 🚀 About Me
+- 💻 Full Stack Developer with hands-on experience in **Frontend, Backend, and Cloud (AWS)**
+- 👀 Passionate about building scalable, high-performance web applications
+- 🌱 Continuously learning and working with modern technologies
 
-<!---
-akshu010/akshu010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+- HTML, CSS, JavaScript
+- React.js
+
+### ⚙️ Backend
+- Python
+- Node.js
+- REST APIs
+
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3, Lambda - basics/intermediate)
+- Git & GitHub
+- CI/CD (basic understanding)
+
+## 📌 What I Do
+- Build full-stack web applications end-to-end  
+- Integrate APIs and third-party services  
+- Deploy and manage apps on AWS  
+
+## 📫 Connect With Me
+- 📧 Email: akshusharmagi@gmail.com  
+
+## 😄 Pronouns
+- He / Him  
+
+---
+
+✨ *Building. Scaling. Learning. Repeating.*
