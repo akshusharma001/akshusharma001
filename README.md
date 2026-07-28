@@ -40,7 +40,7 @@
 **[StayHive](https://github.com/akshusharma001/Stayhive-website)** — PG & hostel management: room/bed tracking, tenant records with private ID storage, rent collection, and expense tracking, on a fully serverless AWS backend.
 
 ## 📫 Connect With Me
-- 📧 Email: akshusharmagi@gmail.com
+- 📧 Email: akshuu01osharma@gmail.com
 
 ## 😄 Pronouns
 - He / Him
