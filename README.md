@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Akshay Sharma
 
 ## 🚀 About Me
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning
 - 💻 Full-stack developer who owns projects end-to-end — frontend, backend, and the AWS infra underneath
 - 🏗️ Currently building **StayHive**, a PG & hostel management ERP, solo — schema to serverless backend to a hand-built React frontend
 - ☁️ Comfortable running the whole stack: Lambda functions, API Gateway routes, Postgres schemas, and the Terraform that ties them together
@@ -17,6 +18,11 @@
 - Python (AWS Lambda, pg8000)
 - Node.js
 - REST APIs (API Gateway HTTP APIs)
+
+### 🤖 AI / ML
+- Python for ML — NumPy, Pandas, scikit-learn
+- Core ML fundamentals — regression, classification, model evaluation
+- Exposure to neural networks / deep learning basics
 
 ### ☁️ Cloud & DevOps
 - AWS — Lambda, API Gateway, RDS (PostgreSQL), S3, IAM
