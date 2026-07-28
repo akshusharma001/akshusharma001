@@ -1,36 +1,43 @@
 # 👋 Hi, I'm Akshay Sharma
 
 ## 🚀 About Me
-- 💻 Full Stack Developer with hands-on experience in **Frontend, Backend, and Cloud (AWS)**
-- 👀 Passionate about building scalable, high-performance web applications
-- 🌱 Continuously learning and working with modern technologies
+- 💻 Full-stack developer who owns projects end-to-end — frontend, backend, and the AWS infra underneath
+- 🏗️ Currently building **StayHive**, a PG & hostel management ERP, solo — schema to serverless backend to a hand-built React frontend
+- ☁️ Comfortable running the whole stack: Lambda functions, API Gateway routes, Postgres schemas, and the Terraform that ties them together
+- 🌱 Learning by shipping — most of what's below came from building real features, not tutorials
 
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-- HTML, CSS, JavaScript
-- React.js
+- JavaScript, HTML, CSS
+- React + Vite
+- Hand-built CSS design systems — custom tokens and components, no UI framework
 
 ### ⚙️ Backend
-- Python
+- Python (AWS Lambda, pg8000)
 - Node.js
-- REST APIs
+- REST APIs (API Gateway HTTP APIs)
 
 ### ☁️ Cloud & DevOps
-- AWS (EC2, S3, Lambda - basics/intermediate)
-- Git & GitHub
-- CI/CD (basic understanding)
+- AWS — Lambda, API Gateway, RDS (PostgreSQL), S3, IAM
+- Terraform for infrastructure-as-code
+- Git & GitHub, multi-repo project structuring (separate backend / frontend / infra repos)
+- Netlify for frontend deploys
 
 ## 📌 What I Do
-- Build full-stack web applications end-to-end  
-- Integrate APIs and third-party services  
-- Deploy and manage apps on AWS  
+- Design and build full-stack apps from the database schema up
+- Wire serverless AWS infrastructure — Lambda + API Gateway + RDS, no servers to babysit
+- Build clean, custom frontend UI without leaning on component libraries
+- Keep personal projects on their own AWS account, separate from work
+
+## 🔨 Currently Building
+**[StayHive](https://github.com/akshusharma001/Stayhive-website)** — PG & hostel management: room/bed tracking, tenant records with private ID storage, rent collection, and expense tracking, on a fully serverless AWS backend.
 
 ## 📫 Connect With Me
-- 📧 Email: akshusharmagi@gmail.com  
+- 📧 Email: akshusharmagi@gmail.com
 
 ## 😄 Pronouns
-- He / Him  
+- He / Him
 
 ---
 
